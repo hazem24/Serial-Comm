@@ -1,0 +1,144 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              UART.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 DIO.o
+ .data          0x00000000        0x0 DIO.o
+ .bss           0x00000000        0x0 DIO.o
+ .text.DIO_ActivatePullUp
+                0x00000000      0x102 DIO.o
+ .text.DIO_ReadPin
+                0x00000000       0xb4 DIO.o
+ .text.DIO_SetPortDirection
+                0x00000000       0x68 DIO.o
+ .text.DIO_WritePort
+                0x00000000       0x68 DIO.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 UART.o
+ .data          0x00000000        0x0 UART.o
+ .bss           0x00000000        0x0 UART.o
+ .text.UART_sendByte
+                0x00000000        0xa UART.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD DIO.o
+LOAD main.o
+LOAD UART.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gccjâ˜qfµw–fSÆ°ÿÁOk&û«	¼ÖÍ°}^"P˜¸(2kÀ$ıN ğAa‘ÕM)1­ØåøòŞ"…u¼éäAŠWI™úøa@í0†ÎÃÃˆ3_*_LêÃ`TQáwF­l-Pïàe¨¢Àqrx°åèÿÓã	«É¦æ–„r^nıI<_^ ğS€Ë(/NvÃ:%³r±…œ ‚Úú©
+±ªg5@DÓ0øËäğ.#V¦Îòú:L_H¿YiKkbMÿz³÷DèùÕ‹V6ÂÍ‹¡BBßgËœ8Am	seE‚³í¦vÉ@<§n}ÿ|eâaZš’·ŒŒÓe0¾ÉÁ›A g úÙ+Ji ->ƒ¬I|a`¥ÌË0x© §ĞO]6…Ã÷Y“j¯–9óGíâÎÉRŒ³ø^¶&Cè‹ö¦ŠŸÅyvò@Ìz8ûk	¶_4ß_Ñ[£§F{H»¤ÆoO»gc’9Ÿd@õwšÓ«ï
+·Gİ#ÅÊmîïlK6ç«m›}µÙ)-uÓ]e¨¨t ‚ ¾  ğ  ¹öùd†O3]     flas_optimaization\flas_optimaization\flas_optimaization\flas_optimaization.componentinfo.xml ğûm‡‘Ì½{#ÁÚ@„=’Ú‚‘ZÅ[H"
+„-8H[ØÛ#áMë–[æ§Aä‡‚ˆqBØõ¼×­¸à”¶ª…zãÎÎ¹»ã9Å»œæbÌÿüÿ3üêÎœìû}>»L´–2?.¹³ZÂuë$Guf\_“B\>zŞE;½‹Åuò$‚Ë9å‚•ë"äOƒU<ô¸µ+×°/}ßMåX#cğGø
+3JÈÒÇEln\VİmãViw?xÖ5‚GÚØİ}ß™.l€ëuÉqY¸±fÄñ«<TÑ°M;6ÙV:@î§)-™ÕŠâ½,¬¦x†PºÅ4Ô#¶í<Îú/å6UÛùaqfˆvsøÎ¾ÛF¦H¼ÄÆk”ì÷ô/)x£|¼x4ByUèpÉÔïŒ)™Y:Ú<¨c.:ú“cj„©hŠ¢Âz‰×Ìj×3„p´_awv\˜Rİ‘J]ñ¶–Û2]Üšşõù£Wäª£Õÿ‡¾q,7õÖÑx(@èåKk=c¡-?"\0VHTÉ#îx¨	UG-"±ÔsdEadnpûxey&l”?±åÂíñšÖĞÔ%'ûäëã™u¯o¸ş^m½ÛçXÕÔ¾ËŠ™%ƒÔ=(Šfrµ&Øh`­t5·Œs¯ğ©L•4ºKd„M-ƒZP¡±ë[?7œp0Û™Æ^D$¤';ûFÉª£CŸ¨r³¢f42½/»ëÁXqpÖi%K«°¾ª/ sĞ„ááUu Û©ÑƒüÖó»É±ÒÈŒfAşœCSzî-o^÷,PŞ`f©ß}M×³²ú«ÏC(^¢‰û:j1­¼Ğcc”dÕşÆz4\Ñ²	¯ş^ÚÈNrsÚÚñÈ{øp`à÷k|üUğjïø÷ËãMô(¯—0ºiaJ]ØÑŞì™éç¿ï8ø{öŞa¦+Û/ÇÑ½ß&Eµå_˜ßoF8=ãcWa=]Uo¬Ls9g£üóéyZÎò%ÇÈÑ0³“š?n[ëúĞ·EøZë¹¨¤èæVp$Ómú0R³C¯0_Š"(¨QH¢"ü
+&IÉè`›Ë@ª&õ9uåcüú”:éóo2 \r~•
+ªä>{	†>‡V2RQqiï eŸäå>¬¤êîoí-³ÁA¦ª3t¦'X8‹$“ Ø¦2,ä(CYñzë«M¶r½UHv¹1{Z.EåR|Å§Ø”~ëO@=?×Š}Ğ9[t v   ¶  ½¿‚á˜…O3Q     flas_optimaization\flas_optimaization\flas_optimaization\flas_optimaization.cproj °%Ğ—ÌÍÍAW¾|6
+Ò‘É»$¡Å¡ÇÁ,lŒFäÛĞÀa4ŠMX¸Bà›ó[Ñ|’ø-½’6¸0”Ri4Üom”»¯©,?çÃœ-Î™şpœÉ0@ø3:0ëøşj{»—XÎÑ6â¬±Å±¸nŞÁ‚aRU…2gN—Ç¸ÿ¿î©i¶a"é•Äš,íÄPN¸ø¸ŞUdŸ˜#Ì®]kò8çÀ%ĞpÕÕEû8Ên›+œ fZ‚³—rÿƒ:ŞŞëû¸Ë+9×+	¼(,Ì0kPîO-æˆH
+["l£çÓ}•H¢
+ÙHW|`g(‘¯ ±çAqIµ]_òzúy+Và6³øz’"’=$EíG|[´„*~Ú[ÉoğÒàÈ/ÒÛàöpï_áA.ùWÄ3*ÖÁÌ*ÿ«r”CvŸ§Ñ˜®xw!í_ ö!ø^)RŒèyÖ¼k˜ZÖ; ¿"BúÀ6abÌƒ
+<‚™8nI|ç!¬ªşI½}[>ûdæ²ìQ”Ú‘+(õ¸?tLö%“š;6Œãjê¶	Ö[ÃAgáWrÕgîš°ŞÚ‚V"P’%j¸à—‹Ì$gY/2Óñ]r~óÛL2hn–Y#…q¤Ñ>ì¿Öaüÿû{E2äĞ)—è!5r‚,ú^a€™ñî¶ğ¢^G˜Ú©¬D+ ´OƒšL¢+B®±ÌIÌ!š8”Ç«9ı1P((øy[„–šµRI¸·pı¾à2~¡ªS~¦å'Á‚0é4aÖ,XµÓÑï*ë8¦ƒzuÅ‹è<]Èˆ85–/ItïŒ8½lJ.&>›ç›ìPoâ*…1`ô4`„X‰gÏD¤°æœ¶ÿş0OÙSD4Ó“B’HB¼•5-;#\á\DfÇ¥r”Ëè“(¼6€K4É5M5•`T¼àÉ	¬µäDÊÀL‡i
+I0J¤üĞ%E"Ñ7øğRşØ“Êe©=»8Ô¶Cİ7wxİÉTgg)2„÷"üv™ÜŸN„²
+Ç‚÷Ô4eMƒUŞ[+?Z‡HóÔi˜y{ùh]–§1MèÅJ]ê1 ÏD¸E¶åfİ’$´¡¥u‹Ş#+{ïbw±FnzïúÌs¹àºü ı›L(@¶õÍÂQ¹ÿ›¯Pé‰ÙëA×³2»Tğä4†çİĞmã®q˜r	[¢›TñÚËÂ¨u OÀlÀƒ4•ş‚ó=yöõ™ÅÅ•z`ŒA6¹&Å
+ÅÛ¯¡…&;º°™ÈŠ1ªA¦F<0×€ÃkÇyzY"/q¹%í!—~÷¶m d4ÈZ+jé6ÍØï¢õ{6®îLİÇßtWB®æAlôT4#$·Y(nwp•óÂêë8æ#ÆñˆZWü1p/Õ"P€ğOä³k¶c¸n¼;9:ĞlÕÀWñck`«‹˜|=˜ê`gñ%A½ù“½}oÆ¨b”%’Çõòï·0¯|*Š¸ü¤“Şe\t—I™&ä÷?½>®HFvƒ³‡QkÚEUQ"ãÌ7•„`E!ZAÜÃ#_™åcL|öÅó™º$™"ãVôtşˆÉÄàÇá³K¡Íª*ÜÅ.@÷å°Å%Æ÷¼2ğßÒA®¬ãV¯ÕYfQÈ…Ç‡ÇsœBKÅ³ÖñzÊÛÌ=Ñ.¾(6<Â|ôŠ©©`Äë°yWÛ@œ™Í'®Àl¾»5
+‰úÿ+Ó'+èHñªdT:eÒ†cGwoC¿%q_yO·¯ÅßßŠûèËïã¾÷×W{œxJÃó	BÄPaŒ¥<E0ßíëïbÃèv*Cä
+õÑÀOÁÆ’›Z&ˆãıx"r»sºkG†c‡Ëb,¯yh·… è¦™ğÛ¶õò|BK
+µ„Œx¨i#*á1ÿ#g˜ëÇÔ(}J==´•3éM¨}ğ1şv®¡Óáæ§.[e·L/FTz¶C©vİÎªü½¬~¶/Z«sóÚ»w­Ï¨†Ív>¶Xş©rõı ¿×t d Ø  g  ò‰©¾k´…O3?     flas_optimaization\flas_optimaization\flas_optimaization\main.c ğHÌÌı•½£~k¼eÖ
+Û’8ÜÜ5×O
+-Úá ¾aC	¦œŒ[[Æè°aïƒnÛrBÊ’·` oÁ°ƒd'_ç.EW"¸ïx¯#êŸÅ"Sá91ºñòœœf+gíÌGÜ&:w:Rû%†|æ<ñÎVŸ‚içŒWœ˜öÍ}ï9¢ØsSwË9ÃµÀö §Aóû+OäÍ6ÅYäİ%µ½ÿ	êF¹âñ7Åh“’O›³öùM¾g©{Ó‘°7Û&Iö.a™@”ÒKá:ŠhXœ:aoJ;øşI{’M:›ºÅ¼¹T{pº:g>mZä†zÜÚp©~e6=#EØz\ù“Ö¨ûK³O¡`Äm?Oùı+¿wó«WŸÚb xÃ3û¼ğ¢Õ¶ÁvoÖ ;°M‘€aDÉÄV(:jw¨æƒ³ª­%]XÍ~;«ÆØû‰*ÒMƒF’´1’¶1ËŞA——oÛôh ’¨¨ón;‘İhïF¼ºÄ‹ñ–6£4mÆxÂŒ/
+ÈNNÀLB~ø}wxjíjêÕAFlÃ:>„õ‚àĞ¶‹ÁuÚe‹ÈXNî¡U+Ü•E«ˆ¨”²+2—“X‘}‰M ŠSh(”å%šn¢VÊLîLg€n¾<Yúsôrs3‡—÷ƒª”rgÃV*…OË(n.²Tã•.ÍÔ`(ètlm#5›bUxNî]©EtboG–¯Év iá¶%èÌü—5ªıŠ:í¸òĞÂ0¬*«tuñ<Øhc(ßÏÏGOßêÏ6ÕIu4ÇO5ÜáNÅƒMÈjÍaj©-İcš÷,?UÓ\Öİb¤~Õ]Ú­ƒ(ÜÉeĞÁ
+p=ÂO^ƒ=ííÑÄrƒ×ÏõßÅëËĞdˆÔ/]ğ:’-O+~Ÿíš-ûßoKÿí6&ÅÁ4”×ü€÷Üt c –  ì  >‰U w—…O3>     flas_optimaization\flas_optimaization\flas_optimaization.atsln ğCW"ËÕAp$pv™¦	FÓøÉzè4 ¢‘)¨HRG,s"‚24à¢‘nFÌd’’pLÊ»Ê¯*Î?”ª²ªîÖ^%êT½£ÜÛÓ×“¬WŸr­Š®:U¨blC±C€¦„èjÆ÷®H_‚u@ÓÏÎR•…àî¾'äú!èğ£>l3PDó’œV=ßÆáÙ0@õ?!bo{Ãz…â¬”™tÑ1%—€”Êæ&Öb3;Ú).Š¬?2ùˆÀ·¹pğÍ\Ï‹Æhˆğº»U{vR6öHŸ‰…Ù®ºLËƒ,¡_	KZrŒ9:Êe%½5ÊM8Ò]‘ô:;¿IGñháhŠÕJ+µşg~'şã,Kä.ÃæeÔ4j'·‰€İŠÿ’¶ì“<çÁd.†lÃ•ÔêL„
+Ö—°I?ğ:8!ø›ÚH©"¼»—ÿg7æµ¢­šwÓRšÖ¨¿Ûø3|¿Ô[	ğ°…ùv¿ó¤MÓß°r2hi^«Lí£”£"÷@õAt o ¾  ğ  ¹öù‚†O3J     flas_optimaization\flas_optimaization\flas_optimaization.componentinfo.xml °R$˜‘Ì½{#ÁÚ@„=’Ú‚‘ZÅ[H"
+„-8H[ØÛ#áMë–[æ§Aä‡‚ˆqBØõ¼×­¸à”¶ª…zãÎÎ¹»ã9Å»œæbÌÿüÿ3üêÎœìû}>»L´–2?.¹³ZÂuë$Guf\_“B\>zŞE;½‹Åuò$‚Ë9å‚•ë"äOƒU<ô¸µ+×°/}ßMåX#cğGø
+3JÈÒÇEln\VİmãViw?xÖ5‚GÚØİ}ß™.l€ëuÉqY¸±fÄñ«<TÑ°M;6ÙV:@î§)-™ÕŠâ½,¬¦x†PºÅ4Ô#¶í<Îú/å6UÛùaqfˆvsøÎ¾ÛF¦H¼ÄÆk”ì÷ô/)x£|¼x4ByUèpÉÔïŒ)™Y:Ú<¨c.:ú“cj„©hŠ¢Âz‰×Ìj×3„p´_awv\˜Rİ‘J]ñ¶–Û2]Üšşõù£Wäª£Õÿ‡¾q,7õÖÑx(@èåKk=c¡-?"\0VHTÉ#îx¨	UG-"±ÔsdEadnpûxey&l”?±åÂíñšÖĞÔ%'ûäëã™u¯o¸ş^m½ÛçXÕÔ¾ËŠ™%ƒÔ=(Šfrµ&Øh`­t5·Œs¯ğ©L•4ºKd„M-ƒZP¡±ë[?7œp0Û™Æ^D$¤';ûFÉª£CŸ¨r³¢f42½/»ëÁXqpÖi%K«°¾ª/ sĞ„ááUu Û©ÑƒüÖó»É±ÒÈŒfAşœCSzî-o^÷,PŞ`f©ß}M×³²ú«ÏC(^¢‰û:j1­¼Ğcc”dÕşÆz4\Ñ²	¯ş^ÚÈNrsÚÚñÈ{øp`à÷k|üUğjïø÷ËãMô(¯—0ºiaJ]ØÑŞì™éç¿ï8ø{öŞa¦+Û/ÇÑ½ß&Eµå_˜ßoF8=ãcWa=]Uo¬Ls9g£üóéyZÎò%ÇÈÑ0³“š?n[ëúĞ·EøZë¹¨¤èæVp$Ómú0R³C¯0_Š"(¨QH¢"ü
+&IÉè`›Ë@ª&õ9uåcüú”:éóo2 \r~•
+ªä>{	†>‡V2RQqiï eŸäå>¬¤êîoí-³ÁA¦ª3t¦'X8‹$“ Ø¦2,ä(CYñzë«M¶r½UHv¹1{Z.EåR|Å§Ø”~ëO@=?×Š}Ğ¦6t c   ¶  ½¿‚á˜…O3>     flas_optimaization\flas_optimaization\flas_optimaization.cproj °%Ğ—ÌÍÍAW¾|6
+Ò‘É»$¡Å¡ÇÁ,lŒFäÛĞÀa4ŠMX¸Bà›ó[Ñ|’ø-½’6¸0”Ri4Üom”»¯©,?çÃœ-Î™şpœÉ0@ø3:0ëøşj{»—XÎÑ6â¬±Å±¸nŞÁ‚aRU…2gN—Ç¸ÿ¿î©i¶a"é•Äš,íÄPN¸ø¸ŞUdŸ˜#Ì®]kò8çÀ%ĞpÕÕEû8Ên›+œ fZ‚³—rÿƒ:ŞŞëû¸Ë+9×+	¼(,Ì0kPîO-æˆH
+["l£çÓ}•H¢
+ÙHW|`g(‘¯ ±çAqIµ]_òzúy+Và6³øz’"’=$EíG|[´„*~Ú[ÉoğÒàÈ/ÒÛàöpï_áA.ùWÄ3*ÖÁÌ*ÿ«r”CvŸ§Ñ˜®xw!í_ ö!ø^)RŒèyÖ¼k˜ZÖ; ¿"BúÀ6abÌƒ
+<‚™8nI|ç!¬ªşI½}[>ûdæ²ìQ”Ú‘+(õ¸?tLö%“š;6Œãjê¶	Ö[ÃAgáWrÕgîš°ŞÚ‚V"P’%j¸à—‹Ì$gY/2Óñ]r~óÛL2hn–Y#…q¤Ñ>ì¿Öaüÿû{E2äĞ)—è!5r‚,ú^a€™ñî¶ğ¢^G˜Ú©¬D+ ´OƒšL¢+B®±ÌIÌ!š8”Ç«9ı1P((øy[„–šµRI¸·pı¾à2~¡ªS~¦å'Á‚0é4aÖ,XµÓÑï*ë8¦ƒzuÅ‹è<]Èˆ85–/ItïŒ8½lJ.&>›ç›ìPoâ*…1`ô4`„X‰gÏD¤°æœ¶ÿş0OÙSD4Ó“B’HB¼•5-;#\á\DfÇ¥r”Ëè“(¼6€K4É5M5•`T¼àÉ	¬µäDÊÀL‡i
+I0J¤üĞ%E"Ñ7øğRşØ“Êe©=»8Ô¶Cİ7wxİÉTgg)2„÷"üv™ÜŸN„²
+Ç‚÷Ô4eMƒUŞ[+?Z‡HóÔi˜y{ùh]–§1MèÅJ]ê1 ÏD¸E¶åfİ’$´¡¥u‹Ş#+{ïbw±FnzïúÌs¹àºü ı›L(@¶õÍÂQ¹ÿ›¯Pé‰ÙëA×³2»Tğä4†çİĞmã®q˜r	[¢›TñÚËÂ¨u OÀlÀƒ4•ş‚ó=yöõ™ÅÅ•z`ŒA6¹&Å
+ÅÛ¯¡…&;º°™ÈŠ1ªA¦F<0×€ÃkÇyzY"/q¹%í!—~÷¶m d4ÈZ+jé6ÍØï¢õ{6®îLİÇßtWB®æAlôT4#$·Y(nwp•óÂêë8æ#ÆñˆZWü1p/Õ"P€ğOä³k¶c¸n¼;9:ĞlÕÀWñck`«‹˜|=˜ê`gñ%A½ù“½}oÆ¨b”%’Çõòï·0¯|*Š¸ü¤“Şe\t—I™&ä÷?½>®HFvƒ³‡QkÚEUQ"ãÌ7•„`E!ZAÜÃ#_™åcL|öÅó™º$™"ãVôtşˆÉÄàÇá³K¡Íª*ÜÅ.@÷å°Å%Æ÷¼2ğßÒA®¬ãV¯ÕYfQÈ…Ç‡ÇsœBKÅ³ÖñzÊÛÌ=Ñ.¾(6<Â|ôŠ©©`Äë°yWÛ@œ™Í'®Àl¾»5
+‰úÿ+Ó'+èHñªdT:eÒ†cGwoC¿%q_yO·¯ÅßßŠûèËïã¾÷×W{œxJÃó	BÄPaŒ¥<E0ßíëïbÃèv*Cä
+õÑÀOÁÆ’›Z&ˆãıx"r»sºkG†c‡Ëb,¯yh·… è¦™ğÛ¶õò|BK
+µ„Œx¨i#*á1ÿ#g˜ëÇÔ(}J==´•3éM¨}ğ1şv®¡Óáæ§.[e·L/FTz¶C©vİÎªü½¬~¶/Z«sóÚ»w­Ï¨†Ív>¶Xş©rõı =t Q Ø  g  ò‰©¾k´…O3,     flas_optimaization\flas_optimaization\main.c ğHÌÌı•½£~k¼eÖ
+Û’8ÜÜ5×O
+-Úá ¾aC	¦œŒ[[Æè°aïƒnÛrBÊ’·` oÁ°ƒd'_ç.EW"¸ïx¯#êŸÅ"Sá91ºñòœœf+gíÌGÜ&:w:Rû%†|æ<ñÎVŸ‚içŒWœ˜öÍ}ï9¢ØsSwË9ÃµÀö §Aóû+OäÍ6ÅYäİ%µ½ÿ	êF¹âñ7Åh“’O›³öùM¾g©{Ó‘°7Û&Iö.a™@”ÒKá:ŠhXœ:aoJ;øşI{’M:›ºÅ¼¹T{pº:g>mZä†zÜÚp©~e6=#EØz\ù“Ö¨ûK³O¡`Äm?Oùı+¿wó«WŸÚb xÃ3û¼ğ¢Õ¶ÁvoÖ ;°M‘€aDÉÄV(:jw¨æƒ³ª­%]XÍ~;«ÆØû‰*ÒMƒF’´1’¶1ËŞA——oÛôh ’¨¨ón;‘İhïF¼ºÄ‹ñ–6£4mÆxÂŒ/
+ÈNNÀLB~ø}wxjíjêÕAFlÃ:>„õ‚àĞ¶‹ÁuÚe‹ÈXNî¡U+Ü•E«ˆ¨”²+2—“X‘}‰M ŠSh(”å%šn¢VÊLîLg€n¾<Yúsôrs3‡—÷ƒª”rgÃV*…OË(n.²Tã•.ÍÔ`(ètlm#5›bUxNî]©EtboG–¯Év iá¶%èÌü—5ªıŠ:í¸òĞÂ0¬*«tuñ<Øhc(ßÏÏGOßêÏ6ÕIu4ÇO5ÜáNÅƒMÈjÍaj©-İcš÷,?UÓ\Öİb¤~Õ]Ú­ƒ(ÜÉeĞÁ
+p=ÂO^ƒ=ííÑÄrƒ×ÏõßÅëËĞdˆÔ/]ğ:’-O+~Ÿíš-ûßoKÿí6&ÅÁ4”×ü€Ş9t P –  ì  >‰U w—…O3+     flas_optimaization\flas_optimaization.atsln ğCW"ËÕAp$pv™¦	FÓøÉzè4 ¢‘)¨HRG,s"‚24à¢‘nFÌd’’pLÊ»Ê¯*Î?”ª²ªîÖ^%êT½£ÜÛÓ×“¬WŸr­Š®:U¨blC±C€¦„èjÆ÷®H_‚u@ÓÏÎR•…àî¾'äú!èğ£>l3PDó’œV=ßÆáÙ0@õ?!bo{Ãz…â¬”™tÑ1%—€”Êæ&Öb3;Ú).Š¬?2ùˆÀ·¹pğÍ\Ï‹Æhˆğº»U{vR6öHŸ‰…Ù®ºLËƒ,¡_	KZrŒ9:Êe%½5ÊM8Ò]‘ô:;¿IGñháhŠÕJ+µşg~'şã,Kä.ÃæeÔ4j'·‰€İŠÿ’¶ì“<çÁd.†lÃ•ÔêL„
+Ö—°I?ğ:8!ø›ÚH©"¼»—ÿg7æµ¢­šwÓRšÖ¨¿Ûø3|¿Ô[	ğ°…ùv¿ó¤MÓß°r2hi^«Lí£”£"÷@àÒtàe             w—…O0@    flas_optimaization\flas_optimaization\.vs\flas_optimaization\v14 ğÑ$9ÉtàR             w—…O0-    flas_optimaization\.vs\flas_optimaization\v14 ğÑ$³ütàa             w—…O0<    flas_optimaization\flas_optimaization\.vs\flas_optimaization ğÑ$„‰tàc             '†O0>    flas_optimaization\flas_optimaization\flas_optimaization\Debug ğ.†9"}tàN             w—…O0)    flas_optimaization\.vs\flas_optimaization ğÑ$'tàN             w—…O0)    flas_optimaization\flas_optimaization\.vs ğÑ$¡JtàP             ”†O0+    flas_optimaization\flas_optimaization\Debug ğ‘±XFˆtà]             '†O08    flas_optimaization\flas_optimaization\flas_optimaization °»mƒítà;             w—…O0    flas_optimaization\.vs ğÑ$ÍötàJ             Z†O0%    flas_optimaization\flas_optimaization °Q]F…ítà7             Z†O0    flas_optimaization °Q]FÄ={ @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
